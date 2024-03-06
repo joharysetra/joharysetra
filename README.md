@@ -22,7 +22,7 @@ I'm a results-driven Full-Stack Developer with a strong focus on building scalab
 
 ## Contact Me
 
-📧 Email: [jsetra@gmail.com](mailto:jsetra@gmail.com)  
+📧 Email: [jsetra6@gmail.com](mailto:jsetra@gmail.com)  
 🌐 Portfolio: [setra.raherison.com](https://setra.raherison.com)  
 🔗 LinkedIn: [linkedin.com/in/setra-raherison](https://www.linkedin.com/in/setra-raherison/) 
 
